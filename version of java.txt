@@ -1,0 +1,31 @@
+version of java
+*JDK 1.0
+*JDK 1.1
+*J2SE 1.2
+*J2SE 1.3
+*J2SE 1.4
+*Java SE 5
+*Java SE 6
+*Java SE 7
+*Java SE 8
+*Java SE 9
+*Java SE 10
+*Java SE 11
+*Java SE 12
+*Java SE 13
+*Java SE 14
+*Java SE 15
+*Java SE 16
+*Java SE 17
+*Java SE 18
+*Java SE 19
+*Java SE 20
+
+JIT->the just -in-time compiler is a component of the runtime environment that improve the performance of java application by compiling byte code to native machine code at run time
+
+list the fulll stack development skills
+*frontend languages and farmeworks(HTML,CSS,Javascript)
+*backend languages and frameworks(Node JS,Express JS,Django)
+*Database and management system(MySQL,SQL,SERVERand postage SQL,Mongo DB and Oracle Database),
+*Version control
+*web hosting flatform

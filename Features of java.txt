@@ -1,0 +1,18 @@
+1.Features of java
+
+*simple
+*object-oriented
+*portable
+*platform independent
+*secured
+*robust
+*architecture neutral
+*interpreted
+*high performance
+*multithreaded
+*distributed
+*dynamic
+
+2.what is compiler?
+-> It is a special program which convetrs source code into byte code
+
